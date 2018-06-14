@@ -1,0 +1,13 @@
+*
+
+!Assets
+!Assets/**
+!ProjectSettings
+!ProjectSettings/**
+!.gitignore
+!README
+
+./Assets/Additionals/JMO_Assets
+./Assets/Additionals/JMO_Assets/**
+./Assets/Additionals/Laser_construction_kit
+./Assets/Additionals/Laser_construction_kit/**
